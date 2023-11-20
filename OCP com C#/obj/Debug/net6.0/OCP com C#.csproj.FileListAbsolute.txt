@@ -1,0 +1,14 @@
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\bin\Debug\net6.0\OCP com C#.exe
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\bin\Debug\net6.0\OCP com C#.deps.json
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\bin\Debug\net6.0\OCP com C#.runtimeconfig.json
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\bin\Debug\net6.0\OCP com C#.dll
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\bin\Debug\net6.0\OCP com C#.pdb
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.AssemblyInfoInputs.cache
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.AssemblyInfo.cs
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.csproj.CoreCompileInputs.cache
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.dll
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\refint\OCP com C#.dll
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.pdb
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\OCP com C#.genruntimeconfig.cache
+C:\Users\lglaj\source\repos\OCP com C#\OCP com C#\obj\Debug\net6.0\ref\OCP com C#.dll
